@@ -1,0 +1,9 @@
+Stellen Sie sich vor, dieses Dokument wäre ein langes Memo von Ihrem Chef.
+Die wichtigen Informationen verstecken sich eventuell erst weit hinten im Dokument.
+Vorher gibt es viele Sätze mit wenig Information.
+Die darf der Algorithmus kürzen, ohne dass viel Information verloren geht.
+Automatische Zusammenfassungen können die wichtigsten Sätze in einem beliebigen Text finden und für eine Zusammenfassung auswählen.
+Wenn dann gleich darauf ein langweiliger Satz steht, fällt dieser einfach weg.
+Wie viele Sätze der Algorithmus auswählt, kann man als Nutzer einstellen.
+Die Technik funktioniert in vielen Sprachen, ohne dass man das zugrunde liegende Sprachmodell ändern müsste.
+Praktisch: Wenn der Chef nicht zum Ende kommt, fällt der nutzlose Rest weg.
